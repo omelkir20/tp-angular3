@@ -1,0 +1,29 @@
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: cover;
+}
+h1{
+  font-family: 'Caveat', cursive;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Kalnia', serif;
+  font-family: 'Libre Baskerville', serif;
+  font-family: 'Whisper', cursive;
+}
+button{font-family: 'Caveat', cursive;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Kalnia', serif;
+  font-family: 'Libre Baskerville', serif;
+  font-family: 'Whisper', cursive;}
+.d1{
+  margin-top: 20px;
+  margin-left:40px ;
+}
+div{
+  margin-top: 40px;
+  margin-bottom:40px;;
+  margin-left: 450px;
+}
